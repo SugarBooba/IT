@@ -1,0 +1,29 @@
+group = "p3131"
+[Week]
+[Week.Day]
+type = "четная"
+Weekday = "Thursday"
+[Week.Day.Lessons]
+[Week.Day.Lessons.Lesson]
+time-st = "08:20"
+time-fn = "09:50"
+week = "2, 4, 6, 8, 10, 12, 14, 16"
+auditorium = "2306/1 (304)"
+place = "Кронверкский пр., д.49, лит.А"
+subject = "ПРОГРАММИРОВАНИЕ(ЛАБ)"
+teacher = "Николаев Владимир Вячеславович"
+les-form = "Очно - дистанционный"
+
+[Week.Day.Lessons.Lesson-2]
+time-st = "10:00"
+time-fn = "11:30"
+auditorium = "2306/1 (304)"
+place = "Кронверкский пр., д.49, лит.А"
+subject = "ПРОГРАММИРОВАНИЕ(ЛАБ)"
+teacher = "Николаев Владимир Вячеславович"
+les-form = "Очно - дистанционный"
+week = [2, 4, 6, 8, 10, 12, 14, 16]
+
+
+
+

@@ -1,0 +1,77 @@
+<?xml version="1.0" ?>
+<Schedule>
+	<group>
+		p3131
+	</group>
+	<Week>
+		<Day>
+			<type>
+				четная
+			</type>
+			<Weekday>
+				Thursday
+			</Weekday>
+			<Lessons>
+				<Lesson>
+					<time-st>
+						08:20
+					</time-st>
+					<time-fn>
+						09:50
+					</time-fn>
+					<week>
+						2, 4, 6, 8, 10, 12, 14, 16
+					</week>
+					<auditorium>
+						2306/1 (304)
+					</auditorium>
+					<place>
+						Кронверкский пр., д.49, лит.А
+					</place>
+					<subject>
+						ПРОГРАММИРОВАНИЕ(ЛАБ)
+					</subject>
+					<teacher>
+						Николаев Владимир Вячеславович
+					</teacher>
+					<les-form>
+						Очно - дистанционный
+					</les-form>
+				</Lesson>
+				<Lesson-2>
+					<time-st>
+						10:00
+					</time-st>
+					<time-fn>
+						11:30
+					</time-fn>
+					<week>
+						<item>2</item>
+						<item>4</item>
+						<item>6</item>
+						<item>8</item>
+						<item>10</item>
+						<item>12</item>
+						<item>14</item>
+						<item>16</item>
+					</week>
+					<auditorium>
+						2306/1 (304)
+					</auditorium>
+					<place>
+						Кронверкский пр., д.49, лит.А
+					</place>
+					<subject>
+						ПРОГРАММИРОВАНИЕ(ЛАБ)
+					</subject>
+					<teacher>
+						Николаев Владимир Вячеславович
+					</teacher>
+					<les-form>
+						Очно - дистанционный
+					</les-form>
+				</Lesson-2>
+			</Lessons>
+		</Day>
+	</Week>
+</Schedule>
